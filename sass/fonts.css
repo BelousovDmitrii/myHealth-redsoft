@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'CRP-Regular';
+  src: url('../fonts/CeraRoundProDEMO-Regular.otf') format('opentype');
+}
+@font-face {
+  font-family: 'CRP-Medium';
+  src: url('../fonts/CeraRoundPro-Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'CRP-Light';
+  src: url('../fonts/CeraRoundProDEMO-Light.otf') format('opentype');
+}
+@font-face {
+  font-family: 'CRP-Bold';
+  src: url('../fonts/CeraRoundProDEMO-Bold.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Geometria-Medium';
+  src: url('../fonts/Geometria-Medium.ttf') format('truetype');
+}
